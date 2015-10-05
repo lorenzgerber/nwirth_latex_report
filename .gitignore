@@ -3,3 +3,10 @@
 *.aux
 *.log
 *.pdf
+*.4ct
+*.4tc
+*.dvi
+*.tmp
+*.idv
+*.lg
+*.xref
